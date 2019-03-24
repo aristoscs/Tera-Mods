@@ -1,1 +1,1 @@
-# Tera-Mods
+# Tera-proxy mods
